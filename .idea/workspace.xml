@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d64b04-72c6-406f-b6f3-97ecaf75c095" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Markdown/BNF.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Markdown/Heron.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/heron.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Markdown/BNF.md" beforeDir="false" afterPath="$PROJECT_DIR$/Markdown/BNF.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
