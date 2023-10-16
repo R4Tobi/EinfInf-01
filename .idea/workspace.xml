@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d64b04-72c6-406f-b6f3-97ecaf75c095" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EinfInf-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/HappyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/Heron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/heron.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown/BNF.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown/Heron.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/heron.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
