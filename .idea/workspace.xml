@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d64b04-72c6-406f-b6f3-97ecaf75c095" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MathInf/DecimalToDual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/MedianOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/RandomIntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/NewtonRoot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Markdown/BNF.md" beforeDir="false" afterPath="$PROJECT_DIR$/Markdown/BNF.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/DecimalToDual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/DecimalToDual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/HappyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/HappyNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/Heron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/Heron.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +55,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -60,6 +63,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tobia\Documents\GitHub\EinfInf-01\src\MathInf" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Heron" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathInf.Heron" />
+      <module name="EinfInf-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MathInf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Heron" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,6 +94,13 @@
       <updated>1697464131871</updated>
       <workItem from="1698059768252" duration="2675000" />
       <workItem from="1698062634857" duration="1955000" />
+      <workItem from="1698099789073" duration="166000" />
+      <workItem from="1698144743739" duration="351000" />
+      <workItem from="1698148016855" duration="122000" />
+      <workItem from="1698218186260" duration="5489000" />
+      <workItem from="1698232437484" duration="416000" />
+      <workItem from="1698314138593" duration="261000" />
+      <workItem from="1698315274130" duration="119000" />
     </task>
     <servers />
   </component>

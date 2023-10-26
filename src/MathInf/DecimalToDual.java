@@ -9,9 +9,9 @@ public class DecimalToDual {
         StringBuilder binary = new StringBuilder();
         //Teilen von dec durch 2 bis es nicht mehr geht
         while (dec > 0) {
-            int remainder = dec % 2;
+            int remainder = dec % 2; //rest kann nur 1 oder 0 sein
             binary.insert(0, remainder); //rest der division in den String integrieren
-            dec /= 2; //division ausführen
+            dec /= 2; //division ausführen für den nächsten durchlauf
         }
 
         return binary.toString();

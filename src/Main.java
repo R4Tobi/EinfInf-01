@@ -1,17 +1,12 @@
 import MathInf.HappyNumbers;
 
-import static MathInf.Heron.heronCubicRoot;
-import static MathInf.Heron.heronSquareRoot;
+import static MathInf.Heron.*;
 
 public class Main {
     public static void main(String[] args) {
         // Heron Square Root
-        System.out.println(heronSquareRoot(3, 0.000000000001));
+        System.out.println(heronSquareRoot(3, 0.000000000000001));
         // Heron Cubic Root
-        System.out.println(heronCubicRoot(27, 0.000000000001));
-
-        //Happy Numbers
-        System.out.println(HappyNumbers.isHappy(20));
-        System.out.println(HappyNumbers.nextHappyNumber(19));
+        System.out.println(heronCubicRoot(27,0.000000000000001));
     }
 }

@@ -6,20 +6,22 @@ public class HappyNumbers {
     public static boolean isHappy(int number){
         Set<Integer> seenNumbers = new HashSet<>();
 
+        //Schleife solange ausführen bis 1 in den geprüften Zahlen ist und die geprüften Zahlen die zu prüfende Zahl enthält
         while (number != 1 && !seenNumbers.contains(number)) {
-            seenNumbers.add(number);
+            seenNumbers.add(number); //geprüfte Zahl hinzufügen
             number = getNextNumber(number);
         }
-
+        //Die nummer ist fröhlich wenn number am Ende der schleife 1 ist.
         return number == 1;
     }
     //Helper for isHappy()
     private static int getNextNumber(int n) {
         int sum = 0;
+        //nächste Stelle von der nummer überprüfen und zurückgeben
         while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
-            n /= 10;
+            int digit = n % 10; //nächste Zahl
+            sum += digit * digit; //potenz bilden
+            n /= 10; //ganzzahldivision durch 10
         }
         return sum;
     }
