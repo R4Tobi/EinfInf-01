@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d64b04-72c6-406f-b6f3-97ecaf75c095" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MathInf/NewtonRoot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Markdown/BNF.md" beforeDir="false" afterPath="$PROJECT_DIR$/Markdown/BNF.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/DecimalToDual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/DecimalToDual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/HappyNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/HappyNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/Heron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/Heron.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/RandomIntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/RandomIntArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +96,7 @@
       <workItem from="1698232437484" duration="416000" />
       <workItem from="1698314138593" duration="261000" />
       <workItem from="1698315274130" duration="119000" />
+      <workItem from="1698584600489" duration="1874000" />
     </task>
     <servers />
   </component>

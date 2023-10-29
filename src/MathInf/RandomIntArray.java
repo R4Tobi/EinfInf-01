@@ -15,7 +15,18 @@ public class RandomIntArray {
     }
 
     public static String toString(int[] a){
-        return Arrays.toString(a);
+        String result = "";
+        int index = 1;
+        int items = a.length;
+        for(int entry : a){
+            if(index < items){
+                result += entry + ", ";
+            }else{
+                result += entry;
+            }
+            index++;
+        }
+        return result;
     }
 
     public static int posMin(int[] a){
