@@ -7,7 +7,7 @@ public class RandomIntArray {
         int[] array = new int[n];
         int index = 0;
         while(index < n){
-            array[index] = (int)(Math.random()*94) + 5;
+            array[index] = (int)(Math.random()*95) + 5;
             index++;
         }
         System.out.println(Arrays.toString(array));

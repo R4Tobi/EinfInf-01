@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d64b04-72c6-406f-b6f3-97ecaf75c095" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/AckermannFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/BigIntegerFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/DifferentialPolynom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/HornerSchema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/PerfectShuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/PrimeTwins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/RecursiveFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/RecursiveFunction2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/farmerMult.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/DecimalToDual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/DecimalToDual.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MathInf/RandomIntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/RandomIntArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +57,7 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -51,6 +67,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -97,6 +114,30 @@
       <workItem from="1698314138593" duration="261000" />
       <workItem from="1698315274130" duration="119000" />
       <workItem from="1698584600489" duration="1874000" />
+      <workItem from="1698601517271" duration="83000" />
+      <workItem from="1698668983386" duration="669000" />
+      <workItem from="1698669680540" duration="33000" />
+      <workItem from="1698669729798" duration="10000" />
+      <workItem from="1698669750450" duration="3670000" />
+      <workItem from="1698700548517" duration="4907000" />
+      <workItem from="1698748237452" duration="2493000" />
+      <workItem from="1698780032666" duration="1813000" />
+      <workItem from="1698826164501" duration="3836000" />
+      <workItem from="1698833011743" duration="2560000" />
+      <workItem from="1699430964853" duration="2261000" />
+      <workItem from="1699434733197" duration="1139000" />
+      <workItem from="1699704982302" duration="665000" />
+      <workItem from="1699705663326" duration="6000" />
+      <workItem from="1699729415689" duration="8900000" />
+      <workItem from="1699818302018" duration="371000" />
+      <workItem from="1699818779905" duration="2477000" />
+      <workItem from="1699821508947" duration="63000" />
+      <workItem from="1699821580511" duration="21000" />
+      <workItem from="1699822206937" duration="198000" />
+      <workItem from="1699862685849" duration="177000" />
+      <workItem from="1700039644368" duration="2149000" />
+      <workItem from="1700150624800" duration="3435000" />
+      <workItem from="1700162484044" duration="3973000" />
     </task>
     <servers />
   </component>
@@ -105,5 +146,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EinfInf_01$PrimeTwins.ic" NAME="PrimeTwins Coverage Results" MODIFIED="1698670473784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MathInf.*</FILTER>
+    </SUITE>
   </component>
 </project>

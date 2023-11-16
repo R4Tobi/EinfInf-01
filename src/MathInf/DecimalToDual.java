@@ -18,6 +18,6 @@ public class DecimalToDual {
     }
 
     public static void main(String[] args){
-        System.out.println(transformDual(8));
+        System.out.println(transformDual(13));
     }
 }
