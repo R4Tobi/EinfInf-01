@@ -33,7 +33,7 @@ public class RecursiveFunction2 {
         int i = 0;
 
         // abstand der jahre bestimmen zwischen denen homer und marge nicht streiten
-        while (index < (x + 1)) {
+        while (index <= x) {
             if (dispute(i)) {
                 differences[index++] = i;
             }

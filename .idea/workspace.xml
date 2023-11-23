@@ -5,28 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d64b04-72c6-406f-b6f3-97ecaf75c095" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/AckermannFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/BigIntegerFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/DifferentialPolynom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/HornerSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/PerfectShuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/PrimeTwins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/RecursiveFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/RecursiveFunction2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/farmerMult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/Polynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/RationalNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/DecimalToDual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/DecimalToDual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/RandomIntArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/RandomIntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/RecursiveFunction2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/RecursiveFunction2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="COMPILER_PROCESS_HEAP_SIZE" value="1024" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,7 +59,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -137,7 +129,16 @@
       <workItem from="1699862685849" duration="177000" />
       <workItem from="1700039644368" duration="2149000" />
       <workItem from="1700150624800" duration="3435000" />
-      <workItem from="1700162484044" duration="3973000" />
+      <workItem from="1700162484044" duration="4509000" />
+      <workItem from="1700173787582" duration="216000" />
+      <workItem from="1700403656578" duration="768000" />
+      <workItem from="1700563218416" duration="630000" />
+      <workItem from="1700593053944" duration="894000" />
+      <workItem from="1700640891896" duration="3244000" />
+      <workItem from="1700645933845" duration="595000" />
+      <workItem from="1700647166205" duration="17000" />
+      <workItem from="1700657096642" duration="3557000" />
+      <workItem from="1700684679502" duration="7728000" />
     </task>
     <servers />
   </component>

@@ -7,6 +7,7 @@ public class Clock {
     public Clock(int hour, int minute) {
         this.hour = hour;
         this.minute = minute;
+        convertTime();
     }
 
     public Clock(String time) {
@@ -15,8 +16,8 @@ public class Clock {
             this.hour = Integer.parseInt(timeArr[0]);
             this.minute = Integer.parseInt(timeArr[1]);
             convertTime();
-        }catch(NumberFormatException e){
-            System.err.println("Cannot convert to Int: " + time);
+        }catch(NumberFormatException | ArrayIndexOutOfBoundsException e){
+            System.err.println("Cannot convert from String: " + time);
         }
     }
 
@@ -66,10 +67,11 @@ public class Clock {
     }
 
     public static void main(String[] args) {
+        System.out.println(new Clock(2588, 3492));
         System.out.println(new Clock(12, 59).add(12)); // 13:11
         System.out.println(new Clock(0, 0).add(24*60 + 61)); //01:01
         System.out.println(new Clock(0,0).add(new Clock(25, 312))); //06:12
         System.out.println(new Clock("12:34").add(new Clock("00:00"))); //12:40
-        System.out.println(new Clock("12:oi").add(new Clock("00:00"))); //cannot convert to int
+        System.out.println(new Clock("12:oq").add(new Clock("00:00"))); //cannot convert to int
     }
 }
