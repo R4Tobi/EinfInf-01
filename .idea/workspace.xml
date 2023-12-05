@@ -5,12 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d64b04-72c6-406f-b6f3-97ecaf75c095" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MathInf/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/Polynomial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/RationalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown/OOP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/DeductiveAlgorithm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/TernarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathInf/FastExponentiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Geometry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/GluehWein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Polynomial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/ChristmasPresents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/Present.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/RationalNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/Clock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/RecursiveFunction2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/RecursiveFunction2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/AckermannFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/AckermannFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/Clock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/Polynomial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/RationalNumber.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,26 +89,6 @@
       <recent name="C:\Users\tobia\Documents\GitHub\EinfInf-01\src\MathInf" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Heron" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathInf.Heron" />
-      <module name="EinfInf-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MathInf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Heron" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -139,6 +140,16 @@
       <workItem from="1700647166205" duration="17000" />
       <workItem from="1700657096642" duration="3557000" />
       <workItem from="1700684679502" duration="7728000" />
+      <workItem from="1701164002330" duration="6820000" />
+      <workItem from="1701171277734" duration="3269000" />
+      <workItem from="1701245818748" duration="1274000" />
+      <workItem from="1701247346484" duration="2372000" />
+      <workItem from="1701250019620" duration="4187000" />
+      <workItem from="1701268860053" duration="2051000" />
+      <workItem from="1701508237829" duration="926000" />
+      <workItem from="1701722866384" duration="2801000" />
+      <workItem from="1701773408153" duration="3360000" />
+      <workItem from="1701777261720" duration="2650000" />
     </task>
     <servers />
   </component>

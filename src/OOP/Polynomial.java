@@ -1,4 +1,4 @@
-package MathInf;
+package OOP;
 
 public class Polynomial {
     private final int degree; // highest power of x

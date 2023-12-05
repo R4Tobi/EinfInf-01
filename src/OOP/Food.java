@@ -1,7 +1,6 @@
-package MathInf;
+package OOP;
 
 import java.util.Arrays;
-
 public class Food implements Comparable<Food> {
 
     private static final String[] TYPES = {"Apple", "Pear", "Cookie", "Grape"};
@@ -55,7 +54,7 @@ public class Food implements Comparable<Food> {
                 case "Cookie" -> y = 353;
                 default -> y = 0;
             }
-            f[i] =new Food(TYPES[x],y);
+            f[i] = new Food(TYPES[x],y);
         }
 
         Arrays.sort(f);

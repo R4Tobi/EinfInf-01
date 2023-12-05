@@ -2,8 +2,16 @@ package MathInf;
 
 import java.math.BigInteger;
 
+/**
+ * Klasse, die die Ackermann-Funktion in Java integriert. (mithilfe von BigInteger)
+ */
 public class AckermannFunction {
-
+    /**
+     * Definition der Ackermann funktion als Rekursive Methode
+     * @param x Zahl x
+     * @param y Zahl Y
+     * @return Funktionswert der Ackermann Funktion
+     */
     public static BigInteger ackermann(BigInteger x, BigInteger y){
         //Basisfall, y = 0
         if (y.equals(BigInteger.ZERO)) {
@@ -20,6 +28,10 @@ public class AckermannFunction {
         }
     }
 
+    /**
+     * Testrahmen der Ackermann-Funktion
+     * @param args werden ignoriert
+     */
     public static void main(String[] args) {
         // Beispielaufruf der Ackermann-Funktion
         BigInteger result = ackermann(BigInteger.valueOf(3), BigInteger.valueOf(3));

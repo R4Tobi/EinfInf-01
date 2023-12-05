@@ -1,4 +1,4 @@
-package MathInf;
+package OOP;
 
 public class RationalNumber implements Comparable<RationalNumber>{
     //---------------------------------------------------------------------------//
