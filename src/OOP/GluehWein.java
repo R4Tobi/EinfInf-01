@@ -8,7 +8,7 @@ public class GluehWein implements Comparable<GluehWein>{
     final float[] PRICE = {3.5F, 4.0F, 5.0F};
     final float[] AMOUNT = {0.25F, 0.5F};
     private static int counter = 0;
-    private boolean shot;
+    private final boolean shot;
     private String taste;
     private float amount;
 

@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12d64b04-72c6-406f-b6f3-97ecaf75c095" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Markdown/OOP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/DeductiveAlgorithm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/TernarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathInf/FastExponentiation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Geometry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Geometry/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/GluehWein.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Polynomial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/ChristmasPresents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/Cuboid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Presents/Present.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/RationalNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/AckermannFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/AckermannFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/Clock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/Food.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/Polynomial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MathInf/RationalNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathInf/FastExponentiation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MathInf/FastExponentiation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/GluehWein.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/GluehWein.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +126,8 @@
       <workItem from="1701722866384" duration="2801000" />
       <workItem from="1701773408153" duration="3360000" />
       <workItem from="1701777261720" duration="2650000" />
+      <workItem from="1701850444567" duration="3099000" />
+      <workItem from="1701854860412" duration="73000" />
     </task>
     <servers />
   </component>
