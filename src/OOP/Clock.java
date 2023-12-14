@@ -1,6 +1,8 @@
 package OOP;
 
-public class Clock {
+import java.util.Arrays;
+
+public class Clock implements Comparable<Clock>{
     int minute;
     int hour;
 
@@ -66,12 +68,23 @@ public class Clock {
         return hour + ":" + minute;
     }
 
+    @Override
+    public int compareTo(Clock c) {
+        return Double.compare(this.getH() + (double) this.getMin() /60, c.getH() + (double) c.getMin() /60);
+    }
+
+
     public static void main(String[] args) {
-        System.out.println(new Clock(2588, 3492));
-        System.out.println(new Clock(12, 59).add(12)); // 13:11
-        System.out.println(new Clock(0, 0).add(24*60 + 61)); //01:01
-        System.out.println(new Clock(0,0).add(new Clock(25, 312))); //06:12
-        System.out.println(new Clock("12:34").add(new Clock("00:00"))); //12:40
-        System.out.println(new Clock("12:oq").add(new Clock("00:00"))); //cannot convert to int
+        Clock c1 = new Clock(12, 34);
+        Clock c2 = new Clock(13, 56);
+        Clock c3 = new Clock(12, 41);
+        Clock c4 = new Clock(11, 43);
+        Clock c5 = new Clock(15, 23);
+        Clock c6 = new Clock(10, 18);
+
+        Clock[] cArr = new Clock[]{c1,c2,c3,c4,c5,c6};
+        System.out.println(Arrays.toString(cArr));
+        //Algorithms.QuickSort.quickSort(cArr);
+        //System.out.println(Arrays.toString(cArr));
     }
 }
