@@ -84,7 +84,7 @@ public class Clock implements Comparable<Clock>{
 
         Clock[] cArr = new Clock[]{c1,c2,c3,c4,c5,c6};
         System.out.println(Arrays.toString(cArr));
-        //Algorithms.QuickSort.quickSort(cArr);
-        //System.out.println(Arrays.toString(cArr));
+        Algorithms.QuickSort.quickSort(cArr);
+        System.out.println(Arrays.toString(cArr));
     }
 }
